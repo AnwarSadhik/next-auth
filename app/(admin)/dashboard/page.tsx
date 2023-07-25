@@ -3,7 +3,7 @@ import React from 'react'
 export default function page() {
   return (
     <div>
-      Landing page
+        Dashboard for admin only
     </div>
   )
 }

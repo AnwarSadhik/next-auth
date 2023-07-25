@@ -2,8 +2,6 @@ import React from 'react'
 
 export default function page() {
   return (
-    <div>
-      Landing page
-    </div>
+    <div>Profile page...</div>
   )
 }
